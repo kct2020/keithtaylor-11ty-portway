@@ -1,3 +1,18 @@
+# keithtaylor-11ty-portway
+
+Quick test to see how it looks and feels. Showing at keithtaylor.pages.dev
+
+## 211024 1st Config
+- README project notes
+- src/_data/site.json
+- src/_data/links.json
+- src/_data/theme.json
+- src/_data/blog.js
+
+Original README...
+
+***
+
 # eleventy-portway-starter
 
 A starter template for building a blog with [Eleventy] and [Portway]

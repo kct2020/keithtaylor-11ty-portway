@@ -1,14 +1,14 @@
 {
 	"header": {
-		"background": "#3c366b",
-		"text": "#ebf4ff"
+		"background": "#379000",
+		"text": "#372200"
 	},
 	"footer": {
-		"background": "var( --color-black )",
-		"text": "var( --color-gray-light )"
+		"background": "#379000",
+		"text": "#372200"
 	},
 	"icon": {
-		"filename": "sunglasses.svg",
-		"alt": "sunglasses"
+		"filename": "whale.svg",
+		"alt": "Whale"
 	}
 }

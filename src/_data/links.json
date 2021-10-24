@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "name": "Home",
+        "url": "/"
+    },
+    {
+        "name": "Purpose",
+        "url": "/#purpose"
+    },
+    {
+        "name": "About",
+        "url": "/#about"
+    }
+
+]

@@ -31,8 +31,8 @@ module.exports = async () =>
 		{
 			console.log( `⚠️  Environment variable '${varname}' not found.` );
 			return {
-				name: "Eleventy Portway Starter",
-				description: "A template for building a simple blog with Eleventy and Portway",
+				name: "Keith Taylor Development Site",
+				description: "A temporary site for testing. See Keith-Taylor.Pages.Dev for production site.",
 				url: url,
 			};
 		}
