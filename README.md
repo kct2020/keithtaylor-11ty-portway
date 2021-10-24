@@ -2,6 +2,9 @@
 
 Quick test to see how it looks and feels. Showing at keithtaylor.pages.dev
 
+Conclusion:
+I like the layout of blog "cards". But I don't need Portway. So I'd have to take that out. However, there are no tags, and I don't want to spend a lot of time coding. Therefore, I'll leave this for now.
+
 ## 211024 1st Config
 - README project notes
 - src/_data/site.json
